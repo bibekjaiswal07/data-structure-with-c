@@ -67,7 +67,7 @@ void displayQueue(CircularQueue* queue) {
 }
 
 int main() {
-    printf("Asmit's (1AY23CS044) program!\n\n");
+    printf("Bibek's (1AY23CS058) program!\n\n");
     CircularQueue queue;
     initializeQueue(&queue);
     char choice, value;
