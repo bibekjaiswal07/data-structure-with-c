@@ -57,7 +57,7 @@ void display(void){
 int main(void){
     
     printf("Name - Bibek Jaiswal\n");
-    printf("USN - 1AY23CS058");
+    printf("USN - 1AY23CS058\n");
     
     int choice;
     while(1){
