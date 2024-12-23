@@ -41,7 +41,7 @@ void freeMemory(struct Day *calender, int size){
 }
 
 int main(){
-    printf("Asmit's(1AY23CS044) Program!\n\n");
+    printf("Bibek's(1AY23CS058) Program!\n\n");
     int size;
     printf("Enter the number of days in the week: "); scanf("%d", &size);
     struct Day *calender = (struct Day *)malloc(sizeof(struct Day) * size);
